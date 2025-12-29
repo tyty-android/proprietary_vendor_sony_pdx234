@@ -11496,6 +11496,13 @@ cc_prebuilt_binary {
 }
 
 install_symlink {
+    name: "vendor_etc_displayconfig_display_id_4630946425541686403_xml",
+    soc_specific: true,
+    installed_location: "etc/displayconfig/display_id_4630946425541686403.xml",
+    symlink_target: "/vendor/etc/displayconfig/display_port_131.xml",
+}
+
+install_symlink {
     name: "vendor_firmware_kiwi_bdwlan_e17",
     soc_specific: true,
     installed_location: "firmware/kiwi/bdwlan.e17",

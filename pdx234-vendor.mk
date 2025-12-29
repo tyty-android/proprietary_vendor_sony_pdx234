@@ -675,6 +675,7 @@ PRODUCT_PACKAGES += \
     vendor.somc.hardware.camera.provider@1.0-service
 
 PRODUCT_PACKAGES += \
+    vendor_etc_displayconfig_display_id_4630946425541686403_xml \
     vendor_firmware_kiwi_bdwlan_e17 \
     vendor_firmware_kiwi_bdwlan_e30 \
     vendor_firmware_kiwi_bdwlan_e31 \
